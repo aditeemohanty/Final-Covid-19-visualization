@@ -1,1 +1,2 @@
-# Final-Covid-19-visualization
+# Sneaker-store
+First mini project using html/css

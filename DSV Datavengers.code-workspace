@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Mr-Bean-main"
+		},
+		{
+			"path": "../DSV B div"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sneaker-store-main"
+	}
+}
